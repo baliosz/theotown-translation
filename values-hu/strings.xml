@@ -2459,7 +2459,7 @@ Kihagyhatod az oktatóanyagot, ha már tudod, hogyan kell játszani. A játékme
     <string name="dialog_tutwelcome_start">Gyerünk!</string>
 
     <string name="settings_catplugins">Bővítmények</string>
-    <string name="settings_keys">Villentyűk</string>
+    <string name="settings_keys">Billentyűk</string>
     <string name="settings_keys_cmdreset">Alapértelmezett</string>
     <string name="settings_keys_text">Jelenleg kijelölt: %1$s\n
 Alapértelmezett: %2$s\n\n
